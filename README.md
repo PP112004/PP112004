@@ -1,6 +1,6 @@
 # Hi, I'm Pranjal 👋
 
-**CS Undergrad @ IIT Mandi** · Building AI tools that solve real problems · UPSC CSE Aspirant
+**3rd Undergrad @ IIT Mandi** · Building AI tools that solve real problems · UPSC CSE Aspirant
 
 ---
 
