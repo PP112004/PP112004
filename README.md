@@ -1,6 +1,5 @@
-# Hi, I'm Pranjal 👋
-
-**3rd Yr Undergrad @ IIT Mandi** · Building AI tools that solve real problems · UPSC CSE Aspirant
+# Hi Peeps, this is abt me.
+· Building AI tools that solve real problems · 
 
 ---
 
@@ -27,8 +26,8 @@ Multi-objective genetic algorithm (NSGA-II) for portfolio selection under fuzzy 
 - Extended baseline with Entropic VaR (EVaR) — +8.2% cumulative return on NSE test data
 - Stack: Python · NSGA-II · scipy · pandas · yfinance
 
-### IIT Mandi 3D Campus Map
-Interactive 3D map of IIT Mandi campus built with React, rendering full campus GLB models in the browser. Lets students and visitors explore the campus spatially.
+###  3D Campus Map
+Interactive 3D map of our college campus built with React, rendering full campus GLB models in the browser. Lets students and visitors explore the campus spatially.
 
 - Stack: React · Three.js · GLB / 3D modelling
 
